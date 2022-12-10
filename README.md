@@ -23,6 +23,9 @@ Fully automated and secured Terraform infra pipeline
     - **Join the slack channel https://join.slack.com/t/slack-wcl4742/shared_invite/zt-1kid01o3n-W47OUTHBd2ZZpSzGnow1Wg**
     - **Join into the channel "#team-devops"**
 
+This needs explanation
+
+
 ### Jenkins setup
 1) #### Access Jenkins
     Copy your Jenkins Public IP Address and paste on the browser = ExternalIP:8080
